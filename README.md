@@ -17,7 +17,9 @@ This project uses a deep convolutional neural network to classify the 8 WHO-reco
 The dataset is too large to upload here. Please contact me or download it from the provided shared repository. For now, the code assumes the dataset is organized into folders per stage.
 
 ## 📁 Project Structure
+- `results/images` — results from modelling
 - `scripts/` — Modular Python scripts for each project step
+- `.gitignore` — gitignore
 - `requirements.txt` — List of required Python packages
 - `LICENSE` — License info
 
