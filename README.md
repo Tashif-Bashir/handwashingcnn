@@ -43,6 +43,17 @@ pip install -r requirements.txt
 - **5_model_architecture_and_training.py** — Build and train the CNN
 - **6_evaluation_and_visualization.py** — Evaluate model and plot results
 
+## 📊 Results
+
+### Training and Validation Curves
+
+![Accuracy and Loss Curves](results/images/accuracy_loss_curves.png)
+
+### Test Accuracy
+
+![Test Accuracy Curve](results/images/test_accuracy.png)
+
+
 ## 🤝 Contributing
 Pull requests welcome. For major changes, please open an issue first.
 
